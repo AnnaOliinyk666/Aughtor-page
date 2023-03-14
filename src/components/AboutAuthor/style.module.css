@@ -1,0 +1,20 @@
+.wrapp{
+    height: 960px;
+    background: #F5F8FC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    gap: 40px;
+}
+.reiting{
+   display: flex; 
+   justify-content: space-between;
+   align-items: center;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}

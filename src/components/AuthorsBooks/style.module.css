@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+    align-items: center;
+}
+.wrapp{
+    height: 746px;
+    background: #F5F5F5;
+}

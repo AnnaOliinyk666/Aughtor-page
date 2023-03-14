@@ -1,0 +1,17 @@
+.btn{
+    background: #FFCA42;
+    border: none;
+    padding:  18px 45px;
+    font-family: 'Cardo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    letter-spacing: 0.57px;
+    text-transform: capitalize;
+
+color: #1B3764;
+}
+.btn:hover{
+    cursor: pointer;
+}
